@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/everis/Desktop/Calculadora/android/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/everis/.android/build-cache/f5590f06e7a80b54618a7484853d7498b9a06f5f/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/everis/Desktop/Calculadora/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/everis/.android/build-cache/acf4b88a26feb361492b602c06d7be139f2fc276/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/everis/Desktop/Calculadora/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/everis/.android/build-cache/acf4b88a26feb361492b602c06d7be139f2fc276/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/everis/Desktop/Calculadora/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/everis/.android/build-cache/acf4b88a26feb361492b602c06d7be139f2fc276/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    }
+]

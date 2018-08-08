@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/everis/Desktop/Calculadora/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/everis/.android/build-cache/f5590f06e7a80b54618a7484853d7498b9a06f5f/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/everis/Desktop/Calculadora/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/everis/.android/build-cache/f5590f06e7a80b54618a7484853d7498b9a06f5f/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/everis/Desktop/Calculadora/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/everis/.android/build-cache/f5590f06e7a80b54618a7484853d7498b9a06f5f/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/everis/Desktop/Calculadora/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/everis/.android/build-cache/f5590f06e7a80b54618a7484853d7498b9a06f5f/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]
