@@ -1,2 +1,3 @@
 # Calculator
- Simple calculator made in native react
+
+A simple calculator made in React Native
